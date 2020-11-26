@@ -1,0 +1,8 @@
+name: pandaibot-landingpage
+static_sites:
+- environment_slug: html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: husnilkhatimi/pandaibot-landingpage
+  name: pandaibot-landingpage

@@ -1,0 +1,8 @@
+spec:
+  name: pandaibot-landingpage
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: main
+      repo_clone_url: https://github.com/husnilkhatimi/pandaibot-landingpage.git
+    name: pandaibot-landingpage
